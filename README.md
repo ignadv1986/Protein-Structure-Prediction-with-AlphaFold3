@@ -5,4 +5,6 @@ Through CRSIPR/Cas9-based screening, we identified the previously uncharcaterize
 ## Aim of the project
 We used Alphafold2 to determine CRAMP1 structure and identify domains that could be involved in its role controlling H1 expresison and/or TOP2i sensitivity.
 ## Tools
-- Alphafold2: 
+- Alphafold2:
+- Alphafold-analyzer: for visualization, the Alphafold-analyzer tool from the followinf GitHub repository was used: https://github.com/Orpowell/alphafold-analyser.
+- Adobe Illustrator: figure processing.
