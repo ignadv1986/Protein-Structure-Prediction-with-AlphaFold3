@@ -29,5 +29,4 @@ Alphafold3 was used to determine CRAMP1 structure and identify domains that coul
 - Both PAE and pLDDT showed high confidence in these regions, with PAE score below 5 Å and pLDDT above 90.
 - A subsequent InterPro identified our predicted N-terminal domain as a SANT domain, which in other proteins allows for DNA and transcription facotr binding.
 - No analog domains where detected for CRAMP1 D1 and D2, suggesting that they represent novel or lineage-specific folds.
-## Future work
 
