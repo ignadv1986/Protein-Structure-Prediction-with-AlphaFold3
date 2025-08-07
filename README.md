@@ -1,7 +1,7 @@
 # Alphafold
 Using Alphafold3 to determine the structure of the CRAMP1 protein.
 
-**Note:** This project is not intended to present novel findings. All biological insights described here are based on the published study PMC12240685.
+**Note:** This project is not intended to present novel findings. All biological insights described here are based on our previously [published study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12240685/#app2).
 The purpose of this repository is to demonstrate practical skills in protein structure prediction using AlphaFold3, structural domain interpretation, and bioinformatics analysis workflows. This includes sequence retrieval, structure visualization, confidence assessment, and domain annotation using established tools.
 ## Background
 Through CRISPR/Cas9-based screening, we identified the previously uncharacterized protein CRAMP1 as a major factor involved in controlling the sensitivity to two functionally different Topoisomerase II inhibitors (TOP2i), ICRF-193 and etoposide, in human cells. Further exploration revealed that CRAMP1 exerts its protection against these compunds by controlling linker histone H1 expression, thereby preventing excessive chromatin decompaction and subsequent TOP2 binding and trapping. Details on this project can be found in [this publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC12240685/#app2).
